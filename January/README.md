@@ -24,3 +24,8 @@ So far in the Udemy course it's the very basic info like:
 - How do I calculate profit and loss?
 
 Personally I'm already familiar with day trading so this is not too interesting to me.
+
+##### 04/01/2023
+Today I wrangled with wordpress some more but I think I've just about got it set up how I want.
+Each _post_ will be part of a _category_. As data science encompasses maths and programming skills I think I may as well lump everything under a "Work" category.
+I've also decided to post about my current hobby, Warhammer 40,000 as I'd like to look back and see how I improve at painting over time.
