@@ -29,3 +29,7 @@ Personally I'm already familiar with day trading so this is not too interesting 
 Today I wrangled with wordpress some more but I think I've just about got it set up how I want.
 Each _post_ will be part of a _category_. As data science encompasses maths and programming skills I think I may as well lump everything under a "Work" category.
 I've also decided to post about my current hobby, Warhammer 40,000 as I'd like to look back and see how I improve at painting over time.
+
+##### 05/01/2023
+Today I set up the OANDA trading applications, the desktop client worked fine but the Metatrader4 client I believe needs to be activated by the broker. I set up an OANDA and FXCM account about a month ago and didn't use them as I was focused on working through a book - I've sent my account manager an email and hopefully they can help me get it working within a couple of days.
+I also made a blog post, personally I'm not a fan of social media so I may do a weekly LinkedIn post when I'm more up and running study-wise, I am aware that recruiters love an active LinkedIn.
