@@ -33,3 +33,5 @@ I've also decided to post about my current hobby, Warhammer 40,000 as I'd like t
 ##### 05/01/2023
 Today I set up the OANDA trading applications, the desktop client worked fine but the Metatrader4 client I believe needs to be activated by the broker. I set up an OANDA and FXCM account about a month ago and didn't use them as I was focused on working through a book - I've sent my account manager an email and hopefully they can help me get it working within a couple of days.
 I also made a blog post, personally I'm not a fan of social media so I may do a weekly LinkedIn post when I'm more up and running study-wise, I am aware that recruiters love an active LinkedIn.
+
+I've also got Jupyter notebooks up and running, I used them for a while back when I was on the Strive data science bootcamp so nothing new to me, the udemy course may be making a lot of use for them but I'll probably use PyCharm for my code as I'm fine with IDEs.
