@@ -35,3 +35,20 @@ Today I set up the OANDA trading applications, the desktop client worked fine bu
 I also made a blog post, personally I'm not a fan of social media so I may do a weekly LinkedIn post when I'm more up and running study-wise, I am aware that recruiters love an active LinkedIn.
 
 I've also got Jupyter notebooks up and running, I used them for a while back when I was on the Strive data science bootcamp so nothing new to me, the udemy course may be making a lot of use for them but I'll probably use PyCharm for my code as I'm fine with IDEs.
+
+##### 06/01/2023
+Today I finished the book "Humble Pi" by Matt Parker, it is a collection of famous maths errors through history and was an enjoyable read - it's interesting how various errors come about and serves as a reminder that mistakes happen, the best practice is to build systems with enough checks and verification that the mistakes get caught and fixed before disaster!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
