@@ -39,6 +39,10 @@ I've also got Jupyter notebooks up and running, I used them for a while back whe
 ##### 06/01/2023
 Today I finished the book "Humble Pi" by Matt Parker, it is a collection of famous maths errors through history and was an enjoyable read - it's interesting how various errors come about and serves as a reminder that mistakes happen, the best practice is to build systems with enough checks and verification that the mistakes get caught and fixed before disaster!
 
+##### 09/01/2023
+First day of the new week and the udemy course is finally starting to get interesting!
+Today we have generated an API key and used it to grab our account data and a list of available instruments, nothing groundbreaking but this is after setting up our conda environments and jupyter notebook support for PyCharm.
+I've started reading the book "Thinking fast and slow" by Daniel Kahneman, I'm about 4 chapters in and it's so far a very enjoyable read!
 
 
 
