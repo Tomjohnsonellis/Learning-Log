@@ -41,8 +41,11 @@ Today I finished the book "Humble Pi" by Matt Parker, it is a collection of famo
 
 ##### 09/01/2023
 First day of the new week and the udemy course is finally starting to get interesting!
-Today we have generated an API key and used it to grab our account data and a list of available instruments, nothing groundbreaking but this is after setting up our conda environments and jupyter notebook support for PyCharm.
+Today I have generated an API key and used it to grab our account data and a list of available instruments, nothing groundbreaking but this is after setting up the conda environment and jupyter notebook support for PyCharm.
 I've started reading the book "Thinking fast and slow" by Daniel Kahneman, I'm about 4 chapters in and it's so far a very enjoyable read!
+
+##### 10/01/2023
+Today on the Udemy course I have learned how to open trades via the API, during testing I ended up with about 10 open orders for 1,000 units of EUR/USD, good thing this isn't real money yet! I'm glad the course has started to pick up, I've been watching most of the videos on 1.5x speed as, rightly so, the instructor has to lay out the fundamentals before we can advance. Mainly things like how to ask for help, check the FAQ, learn to debug, google things first etc.
 
 
 
