@@ -47,6 +47,8 @@ I've started reading the book "Thinking fast and slow" by Daniel Kahneman, I'm a
 ##### 10/01/2023
 Today on the Udemy course I have learned how to open trades via the API, during testing I ended up with about 10 open orders for 1,000 units of EUR/USD, good thing this isn't real money yet! I'm glad the course has started to pick up, I've been watching most of the videos on 1.5x speed as, rightly so, the instructor has to lay out the fundamentals before we can advance. Mainly things like how to ask for help, check the FAQ, learn to debug, google things first etc.
 
+##### 11/01/2023
+Today I had a little refresher of markdown syntax, I think familiarity is the name of the game in terms of productively using things like markdown, vim, terminal commands etc. Tools that require a bit of learning but once skilled in using them allow you to do so much so quickly. I am considering buying a new laptop for my Open Univeristy studies (currently using one of the famed Lenovo thinkpads) and I think I do want to force myself to use an arch based distro (Arco, Garuda, EndeavourOS being my top choices) as personally I do enjoy the learning experience of getting to grips with different operating systems, seeing how they differ from one another etc. 
 
 
 
