@@ -50,6 +50,9 @@ Today on the Udemy course I have learned how to open trades via the API, during 
 ##### 11/01/2023
 Today I had a little refresher of markdown syntax, I think familiarity is the name of the game in terms of productively using things like markdown, vim, terminal commands etc. Tools that require a bit of learning but once skilled in using them allow you to do so much so quickly. I am considering buying a new laptop for my Open Univeristy studies (currently using one of the famed Lenovo thinkpads) and I think I do want to force myself to use an arch based distro (Arco, Garuda, EndeavourOS being my top choices) as personally I do enjoy the learning experience of getting to grips with different operating systems, seeing how they differ from one another etc. 
 
+##### 12/01/2023
+The udemy course recommends making sure that you are familiar with the basics of python, pandas, and financial information - it also provides 3 appendices with plenty of exercises and information to make sure you are up to speed on everything you need to know. There is a large overlap currently with this and the "python crash course" book I have, so I'm currently finding the the subject a bit tedious, but it is important for me to slog through it so that I don't suddenly become overwhelmed later due to missing out a key topic somewhere!
+
 
 
 
