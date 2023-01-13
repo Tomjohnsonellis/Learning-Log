@@ -53,7 +53,9 @@ Today I had a little refresher of markdown syntax, I think familiarity is the na
 ##### 12/01/2023
 The udemy course recommends making sure that you are familiar with the basics of python, pandas, and financial information - it also provides 3 appendices with plenty of exercises and information to make sure you are up to speed on everything you need to know. There is a large overlap currently with this and the "python crash course" book I have, so I'm currently finding the the subject a bit tedious, but it is important for me to slog through it so that I don't suddenly become overwhelmed later due to missing out a key topic somewhere!
 
-
+##### 13/01/2023
+Today I dug out an old laptop and installed Arch Linux onto it, the install process is pretty simple nowadays, type "archinstall" into a terminal and follow the instructions! I actually had more trouble getting the laptop to boot from a USB stick, it had be plugged into one specific port to be found at bootup.
+I went with the "awesome" window manager, it seems nice. I've also installed my password manager and github terminal applications, have cloned my repo and writting this learning log entry all from terminal! If you are reading this text, it means I managed to push a commit as well :-)
 
 
 
