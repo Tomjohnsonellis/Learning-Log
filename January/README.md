@@ -61,6 +61,11 @@ I went with the "awesome" window manager, it seems nice. I've also installed my 
 My Open University materials have arrived! A hefty book with a bumblebee on it, a free scientific calculator, and a bunch of info on best practices, how the module is graded etc.
 I'm pretty excited, but my desk space is quickly becoming scarce!
 
+##### 17/01/2023
+I came across a study skills course that piqued my interest, [ICanStudy](icanstudy.com), it feels like a startup company and seems to be mostly done by one person who is an ex-doctor turned learning coach, they aren't taking new clients currently but I put myself on the mailing list.
+On the Udemy course, today we started covering time-series data, which is what we will primarily be using for financial instruments. Pandas makes working with it pretty intuitive, the .loc operator makes it easy to slice a specific section of data.
+On the OU side of things, I've read through the assessment guide and read a few pages of the introduction module, as far as tutors and study support goes the module doesn't start until 4th Feb but I may as well get a bit of a head start :^)
+
 
 
 
