@@ -66,6 +66,10 @@ I came across a study skills course that piqued my interest, [ICanStudy](icanstu
 On the Udemy course, today we started covering time-series data, which is what we will primarily be using for financial instruments. Pandas makes working with it pretty intuitive, the .loc operator makes it easy to slice a specific section of data.
 On the OU side of things, I've read through the assessment guide and read a few pages of the introduction module, as far as tutors and study support goes the module doesn't start until 4th Feb but I may as well get a bit of a head start :^)
 
+##### 19/01/2023
+Not the most productive day today, I saw my therapist as I have some worries about all this work I'm doing, I have a tendancy to start guns blazing then burn out and crash. The main point to focus on is that I'm doing a different course, in a different environment, as a different person compared to my previous attemps. I have a lot more self-knowledge, emotional maturity, and support structures in place. I'm actually pretty well prepared, pre-empting my common problems and willing to take the steps necessary to make sure that I can keep going.
+I had a browse round the OU website, they provide plenty of video walkthroughs to explain how to use the various sections of the website, it seems pretty comprehensive - I even made a forum post, the first interaction with other students so far!
+
 
 
 
