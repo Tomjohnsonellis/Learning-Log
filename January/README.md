@@ -70,6 +70,9 @@ On the OU side of things, I've read through the assessment guide and read a few 
 Not the most productive day today, I saw my therapist as I have some worries about all this work I'm doing, I have a tendancy to start guns blazing then burn out and crash. The main point to focus on is that I'm doing a different course, in a different environment, as a different person compared to my previous attemps. I have a lot more self-knowledge, emotional maturity, and support structures in place. I'm actually pretty well prepared, pre-empting my common problems and willing to take the steps necessary to make sure that I can keep going.
 I had a browse round the OU website, they provide plenty of video walkthroughs to explain how to use the various sections of the website, it seems pretty comprehensive - I even made a forum post, the first interaction with other students so far!
 
+##### 20/01/2023
+A better day, waking up early and going for a walk really does set the day in motion for me.
+Today on the Udemy course I covered downsampling, there's a lot of data to churn through with stock prices and a lot of it is more noise than signal, downsampling allows us to group the data in some way e.g. weekly, monthly, 30 Mins. 
 
 
 
