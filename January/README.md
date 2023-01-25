@@ -74,6 +74,9 @@ I had a browse round the OU website, they provide plenty of video walkthroughs t
 A better day, waking up early and going for a walk really does set the day in motion for me.
 Today on the Udemy course I covered downsampling, there's a lot of data to churn through with stock prices and a lot of it is more noise than signal, downsampling allows us to group the data in some way e.g. weekly, monthly, 30 Mins. 
 
+##### 25/01/2023
+Hoo! Been rather busy with OpenUni stuff lately, it's currently "Freshers Fortnight" and there are a bunch of introductory MSTeams meetings, I've also been trying to change my working hours as I'm currently working weekends from ~7PM to 2AM, it's not great.
+Today I went over Classes in python, they're very useful for more complex projects and an important thing to understand going forward. Apparantly I need to make a sundial for the OU access module, should be easy enough, but I need to focus and reflect on *why* I'm doing the steps in it, I have a tendancy to just power through tasks without considering why they are useful or what skills they are developing, a tendancy I hope to change over my time studying.
 
 
 
