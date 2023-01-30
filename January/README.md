@@ -78,6 +78,13 @@ Today on the Udemy course I covered downsampling, there's a lot of data to churn
 Hoo! Been rather busy with OpenUni stuff lately, it's currently "Freshers Fortnight" and there are a bunch of introductory MSTeams meetings, I've also been trying to change my working hours as I'm currently working weekends from ~7PM to 2AM, it's not great.
 Today I went over Classes in python, they're very useful for more complex projects and an important thing to understand going forward. Apparantly I need to make a sundial for the OU access module, should be easy enough, but I need to focus and reflect on *why* I'm doing the steps in it, I have a tendancy to just power through tasks without considering why they are useful or what skills they are developing, a tendancy I hope to change over my time studying.
 
+##### 30/01/2023
+A pretty good day today! I've enrolled on the [ICanStudy](www.icanstudy.com) course by Dr Justin Sung and so far it's pretty engaging and interesting!
+I've written a [blog post about it](https://johnsonellisxyz.wordpress.com/2023/01/30/icanstudy-first-impressions/) on my website that goes into more detail about my first impressions.  
+Today I've learnt about how seperating motivation from productivity is the far more effective way to go, motivation fluctuates and relying on it leads to the cycle of:  
+"get motivated -> get results -> time passes -> results lessen -> re-ignite motivation or burnout completely".  
+It reminds me of this quote from [Atomic Habits](https://jamesclear.com/atomic-habits):  
+*“You do not rise to the level of your goals. You fall to the level of your systems.”*
 
 
 
